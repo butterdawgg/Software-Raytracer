@@ -1,4 +1,4 @@
-# Raytracer
+# Software Raytracer
 
 A CPU-based software raytracer written in C++20, rendering directly into an
 SDL2 window surface. Supports analytic sphere/plane primitives as well as
